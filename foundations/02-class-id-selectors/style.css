@@ -1,0 +1,21 @@
+/* style.css */
+
+.odd {
+    background-color: #c78484;
+    font-family: 'Veranda', 'DejaVu Sans', sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#num2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#num4 {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: lightgreen;
+}
