@@ -1,0 +1,11 @@
+.container p {
+    background-color: yellow;
+    color: red;
+    text-align: center;
+    
+}
+
+p {
+    font-size: 20px;
+    font-family: sans-serif;
+}
